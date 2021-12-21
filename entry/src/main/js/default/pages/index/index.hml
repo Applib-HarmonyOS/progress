@@ -1,0 +1,13 @@
+<element name='neutheme' src='../../../../../../node_modules/neumorphism/theme/theme.hml'></element>
+<element name='neuprogress' src='../../../../../../node_modules/neumorphism/progress/progress.hml'></element>
+
+<neutheme class="container" theme="" color="">
+    <text class='title'>
+        Progressbar
+    </text>
+    <neuprogress progress="80%" width="300px" color="" height="20px" border="50px"></neuprogress>
+    <text class='title'>
+        Colored Progressbar
+    </text>
+    <neuprogress progress="80%" width="300px" color="#292929" height="20px" border="50px"></neuprogress>
+</neutheme>
