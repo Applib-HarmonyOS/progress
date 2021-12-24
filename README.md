@@ -39,3 +39,9 @@ Usage:
 ```html
 <neuprogress progress="80%" width="300px" color="" height="20px" border="50px"></neuprogress>
 ```
+
+# Reference:
+
+<a href="https://neumorphism.io/">neumorphism.io</a>
+
+<a href="https://ismail9k.github.io/neomorphism/">ismail9k.github.io/neomorphism</a>
