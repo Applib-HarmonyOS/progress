@@ -2,29 +2,11 @@
 
 # Installation :
 
-1. Copy the neumorph_progress folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
+Install using npm inside pages directory
 
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_progress"
-  }
-}
-```
+```npm init -y```
 
-# Note :
-
-Add this css snippet when passing input or button through slot .
-
-```css
-button, input{
-    width: 100%;
-    height: 100%;
-    background-color:transparent;
-    text-color: black;
-}
-```
+```npm i hmos-neumorphism ```
 
 # Progress
 
@@ -32,7 +14,7 @@ button, input{
 
 Import:
 ```html
-<element name='neuprogress' src='../../../../../../node_modules/neumorphism/progress/progress.hml'></element>
+<element name='neuprogress' src='../node_modules/hmos-neumorphism/progress/progress.hml'></element>
 ```
 
 Usage:
