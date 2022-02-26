@@ -2,9 +2,7 @@
 
 # Installation :
 
-Install using npm inside pages directory
-
-```npm init -y```
+Install using npm 
 
 ```npm i hmos-neumorphism ```
 
@@ -14,7 +12,7 @@ Install using npm inside pages directory
 
 Import:
 ```html
-<element name='neuprogress' src='../node_modules/hmos-neumorphism/progress/progress.hml'></element>
+<element name='neuprogress' src='../../../../../../node_modules/hmos-neumorphism/progress/progress.hml'></element>
 ```
 
 Usage:
